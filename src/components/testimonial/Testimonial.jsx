@@ -16,7 +16,7 @@ function Testimonial() {
                                 <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="src/assets/user-profile.png" />
                                 <p style={{color: mode === 'dark' ? 'white' : ''}} className="leading-relaxed">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero minus quam eos id dolore optio, maxime odit, earum qui corporis nulla possimus dignissimos necessitatibus quis, consectetur at ab illo expedita.</p>
                                 <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4" />
-                                <h2 style={{color: mode === 'dark' ? '#ff4162' : ''}} className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Mukul Yadav</h2>
+                                <h2 style={{color: mode === 'dark' ? '#ff4162' : ''}} className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">Abhisehk Adhana</h2>
                                 <p style={{color: mode === 'dark' ? 'white' : ''}} className="text-gray-500">Fresher</p>
                             </div>
                         </div>
